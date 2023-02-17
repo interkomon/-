@@ -1,0 +1,10 @@
+C:\Users\325L-10\Desktop\Шурков ПР-21\птпм\Тест\Тесты\bin\Debug\Тесты.exe.config
+C:\Users\325L-10\Desktop\Шурков ПР-21\птпм\Тест\Тесты\bin\Debug\Тесты.exe
+C:\Users\325L-10\Desktop\Шурков ПР-21\птпм\Тест\Тесты\bin\Debug\Тесты.pdb
+C:\Users\325L-10\Desktop\Шурков ПР-21\птпм\Тест\Тесты\obj\Debug\Тесты.csproj.SuggestedBindingRedirects.cache
+C:\Users\325L-10\Desktop\Шурков ПР-21\птпм\Тест\Тесты\obj\Debug\Тесты.Form1.resources
+C:\Users\325L-10\Desktop\Шурков ПР-21\птпм\Тест\Тесты\obj\Debug\Тесты.Properties.Resources.resources
+C:\Users\325L-10\Desktop\Шурков ПР-21\птпм\Тест\Тесты\obj\Debug\Тесты.csproj.GenerateResource.cache
+C:\Users\325L-10\Desktop\Шурков ПР-21\птпм\Тест\Тесты\obj\Debug\Тесты.csproj.CoreCompileInputs.cache
+C:\Users\325L-10\Desktop\Шурков ПР-21\птпм\Тест\Тесты\obj\Debug\Тесты.exe
+C:\Users\325L-10\Desktop\Шурков ПР-21\птпм\Тест\Тесты\obj\Debug\Тесты.pdb
